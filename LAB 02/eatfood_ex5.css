@@ -1,0 +1,44 @@
+.data 
+{
+    margin: 10% 10%;
+    background-image: url("background.gif");
+    font-family: sans-serif;
+
+
+}
+
+#header
+ {
+    border :10px solid white;
+    text-align: right;
+    background-color: rgb(168, 213, 255);
+    margin: 20px 10px;
+    
+
+}
+#white
+{
+    background-color: white;
+}
+.dates
+{
+    border-bottom: dashed;
+    border-bottom-width: 2px;
+}
+.EJ
+{
+    border: 5px solid rgb(168, 213, 255);
+    background-color: rgb(196, 226, 255);
+    margin: 10px 5px 0px 10px;
+    overflow: auto;
+}
+#foot
+{
+    text-align: center;
+    padding-bottom: 5px ;
+
+}
+.img
+{
+    float: right;
+}
